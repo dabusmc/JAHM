@@ -1,0 +1,23 @@
+{
+  "item.jahm.stone_hammer_3": "Stone Hammer (3x3)",
+  "item.jahm.iron_hammer_3": "Iron Hammer (3x3)",
+  "item.jahm.gold_hammer_3": "Gold Hammer (3x3)",
+  "item.jahm.diamond_hammer_3": "Diamond Hammer (3x3)",
+  "item.jahm.netherite_hammer_3": "Netherite Hammer (3x3)",
+
+  "item.jahm.stone_hammer_5": "Stone Hammer (5x5)",
+  "item.jahm.iron_hammer_5": "Iron Hammer (5x5)",
+  "item.jahm.gold_hammer_5": "Gold Hammer (5x5)",
+  "item.jahm.diamond_hammer_5": "Diamond Hammer (5x5)",
+  "item.jahm.netherite_hammer_5": "Netherite Hammer (5x5)",
+
+  "item.jahm.stone_hammer_7": "Stone Hammer (7x7)",
+  "item.jahm.iron_hammer_7": "Iron Hammer (7x7)",
+  "item.jahm.gold_hammer_7": "Gold Hammer (7x7)",
+  "item.jahm.diamond_hammer_7": "Diamond Hammer (7x7)",
+  "item.jahm.netherite_hammer_7": "Netherite Hammer (7x7)",
+
+  "item.jahm.iron_excavator_3": "Iron Excavator (3x3)",
+
+  "creativetab.jahm": "JAHM"
+}
